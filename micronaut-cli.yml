@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.data.query.demo
+---
+testFramework: junit
+sourceLanguage: java
